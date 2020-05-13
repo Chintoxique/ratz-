@@ -20,23 +20,9 @@ Ce programme de surveillance par intelligence artificielle est un premier pas da
 Dans un futur proche le programme pourra s'occupper de communiquer avec l'être vivant et dans le cadre d'une relation humaine, il pourra consolider des liens et s'occuper de toutes les étapes qui maintiennent l'être en vie.
 
 
-Say what the step will be
+## Detection
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+On utilise [YOLO](https://pjreddie.com/darknet/yolo/) pour la detection d'object et d'animaux
 
 ### Break down into end to end tests
 
