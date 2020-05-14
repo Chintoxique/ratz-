@@ -14,7 +14,10 @@ Afin de surveillez et de répondre aux besoin primaire de nos gerbilles, nous av
 
 ### But du projet
 
-A
+Nos gerbilles sont le terrain d'essaie parfait pour l'expérimentation de programme de gestion et de surveillance d'être vivant, permettant de répondre aux besoins de ceux-ci tout en les surveillant afin de les garders en vie dans un espace restreint.
+
+Cette procédure de surveillance s'apparante fort aux programmes installé dans les maisons connectés et met en lumière les dérives d'un écosytème omnipotent et autonomme qui prends en charge toutes les actions d'autogestion d'un humain. 
+Une intelligence artificielle serait donc capable de transformer notre maison en une usine régulant nos besoin primaire aux point de nous réguler nous même à un état de dépendance de la machine !
 
 ## Detection
 
