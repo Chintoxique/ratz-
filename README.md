@@ -6,7 +6,7 @@ Une intelligence artificielle pour s'occuper de nos gerbilles
 
 Afin de surveillez et de répondre aux besoin primaire de nos gerbilles, nous avons mis au point une intelligence artificielle capable de s'occuper sans interuption.
 
-### Caractéristiques du programmes
+### Caractéristiques du programme
 
 * Détection des Gerbilles dans leur cage
 * Détection des objets de leur quotidien ( assiette à nourriture, eau, litière, boite en carton,...)
@@ -57,7 +57,7 @@ Le programme garde constament un oeil sur la postition des gerbilles, les moment
 ![Alt text](assets/RAT12.png?raw=true "Title")
 
 ## Application
-Utilise notre réseau Wifi afin de nous notifier 
+Utilise [OneSignal](https://documentation.onesignal.com/) pour notifier 
 
 ![Alt text](assets/notification.png?raw=true "Title")
 
@@ -70,7 +70,7 @@ Elle affiche en temps réel le pourcentage des ressources présente dans la cage
 
 * [YOLO]() - Object Detection
 * [VueJS]() - Monitoring, Framework
-* [TailwindCss]() - Style, Postcss
+
 
 
 ## Authors
