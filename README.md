@@ -4,7 +4,7 @@ Une intelligence artificielle pour s'occuper de nos gerbilles
 
 ## Introduction
 
-Afin de surveillez et de répondre aux besoin primaire de nos gerbilles, nous avons mis au point une intelligence artificielle capable de s'occuper sans interuption.
+Afin de surveiller et de répondre aux besoins primaires de nos gerbilles, nous avons mis au point une intelligence artificielle capable de s'occuper sans interruption.
 
 ### Caractéristiques du programme
 
@@ -78,3 +78,7 @@ Elle affiche en temps réel le pourcentage des ressources présente dans la cage
 Envy
 Leo
 
+### Note :
+Plus l'environnement est robotisé/automatisé, plus le scénario peut s'avérer catastrophique à la moindre erreur de l'intelligence articifielle. L'autonomie des êtres vivants dépend alors de la machine.
+En cas de dysfonctionnement, la vie des êtres vivants est mise en danger.
+Ce qui démontre le risque que peut engendrer la dépendance aux machines. Si celle-ci est programmée pour notre survie.
