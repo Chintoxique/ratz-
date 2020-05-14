@@ -31,13 +31,12 @@ La caméra garde toujours en vue la quantité de nourriture présente et notifie
 (FoodFull-ActiveFood)/FoodFull x 100 = FoodNeeded %
 ```
 
-IMG
-
 ### Eau
 
 ```
 (BoxWater-ContentWater)/BoxWater x 100 = WaterNeeded %
 ```
+![Alt text](assets/RAT13.png?raw=true "Title")
 
 ### Carton
 
@@ -50,22 +49,21 @@ if (BoxArea === 0) {
 }
 ```
 
-IMG
 
 ### Gerbilles
 
 Le programme garde constament un oeil sur la postition des gerbilles, les moments où elles dorment ainsi que les tentatives d'évasion afin de notifier toutes leurs actions
 
-IMG
+![Alt text](assets/RAT12.png?raw=true "Title")
 
 ## Application
 Utilise notre réseau Wifi afin de nous notifier 
 
-IMG
+![Alt text](assets/notif.png?raw=true "Title")
 
 Elle affiche en temps réel le pourcentage des ressources présente dans la cage 
 
-IMG
+![Alt text](assets/app.png?raw=true "Title")
 
 
 ## Built With
