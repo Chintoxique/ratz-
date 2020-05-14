@@ -52,6 +52,7 @@ IMG
 ## Built With
 
 * [YOLO]() - Object Detection
+* [VueJS]() - Style, Postcss
 * [TailwindCss]() - Style, Postcss
 
 
