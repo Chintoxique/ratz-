@@ -23,13 +23,32 @@ Une intelligence artificielle serait donc capable de transformer notre maison en
 
 On utilise [YOLO](https://pjreddie.com/darknet/yolo/) pour la détection d'objets et d'animaux
 
-### Nourriture et Carton
+### Nourriture
 
 La caméra garde toujours en vue la quantité de nourriture présente et notifie au moment de renouveller celle-ci
 
+```
+(FoodFull-ActiveFood)/FoodFull x 100 = FoodNeeded %
+```
+
 IMG
 
+### Eau
+
+```
+(BoxWater-ContentWater)/BoxWater x 100 = WaterNeed %
+```
+
+### Carton
+
 Le programme permet aussi de détecter quand les gerbilles manquent de carton afin qu'elles puissent constamment avoir de quoi ronger
+
+```
+BoxConsumed/BoxAll x 100 = BoxArea % 
+if (BoxArea === 0) {
+  Box ++
+}
+```
 
 IMG
 
