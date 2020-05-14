@@ -59,7 +59,7 @@ Le programme garde constament un oeil sur la postition des gerbilles, les moment
 ## Application
 Utilise notre réseau Wifi afin de nous notifier 
 
-![Alt text](assets/notif.png?raw=true "Title")
+![Alt text](assets/notification.png?raw=true "Title")
 
 Elle affiche en temps réel le pourcentage des ressources présente dans la cage 
 
