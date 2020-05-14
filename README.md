@@ -76,7 +76,6 @@ Elle affiche en temps réel le pourcentage des ressources présente dans la cage
 ## Authors
 
 Envy
-Leo
 
 ### Note :
 Plus l'environnement est robotisé/automatisé, plus le scénario peut s'avérer catastrophique à la moindre erreur de l'intelligence articifielle. L'autonomie des êtres vivants dépend alors de la machine.
