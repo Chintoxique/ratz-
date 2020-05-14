@@ -36,7 +36,7 @@ IMG
 ### Eau
 
 ```
-(BoxWater-ContentWater)/BoxWater x 100 = WaterNeed %
+(BoxWater-ContentWater)/BoxWater x 100 = WaterNeeded %
 ```
 
 ### Carton
@@ -71,7 +71,7 @@ IMG
 ## Built With
 
 * [YOLO]() - Object Detection
-* [VueJS]() - Style, Postcss
+* [VueJS]() - Monitoring, Framework
 * [TailwindCss]() - Style, Postcss
 
 
