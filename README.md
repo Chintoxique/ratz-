@@ -32,24 +32,28 @@ IMG
 
 ### Gerbilles
 
-Le programme garde constament un oeil sur la postition des gerbilles, les moments où elles dorment ainsi que les tentative d'évasion afin de les notifier
+Le programme garde constament un oeil sur la postition des gerbilles, les moments où elles dorment ainsi que les tentatives d'évasion afin de notifier toutes leurs actions
+
+IMG
 
 ## Application
 Utilise notre réseau Wifi afin de nous notifier 
 
+IMG
+
 Elle affiche en temps réel le pourcentage des ressources présente dans la cage 
+
+IMG
 
 
 ## Built With
 
-* []() - 
-* []() - 
-
-## Contributing
-
+* [YOLO]() - Object Detection
+* [TailwindCss]() - Style, Postcss
 
 
 ## Authors
 
-
+Envy
+Leo
 
