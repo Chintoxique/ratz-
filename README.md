@@ -10,7 +10,7 @@ Afin de surveiller et de répondre aux besoins primaires de nos gerbilles, nous 
 
 * Détection des Gerbilles dans leur cage
 * Détection des objets de leur quotidien ( assiette à nourriture, eau, litière, boite en carton,...)
-* Système de notification WLAN pour l'approvisionnement des gerbilles
+* Système de notification pour l'approvisionnement des gerbilles
 
 ### But du projet
 
