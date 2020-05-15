@@ -70,7 +70,7 @@ Elle affiche en temps réel le pourcentage des ressources présente dans la cage
 
 * [YOLO](https://pjreddie.com/darknet/yolo/) - Object Detection
 * [VueJS](https://vuejs.org/v2/guide/) - Monitoring, Framework
-* [OneSignal](https://documentation.onesignal.com/)
+* [OneSignal](https://documentation.onesignal.com/) - Notification
 
 
 ## Authors
